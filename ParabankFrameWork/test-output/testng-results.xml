@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T05:36:39Z" name="Default suite" finished-at="2023-04-03T05:37:06Z" duration-ms="27137">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T05:36:39Z" name="Default test" finished-at="2023-04-03T05:37:06Z" duration-ms="27137">
+      <class name="module1.NewTest">
+        <test-method is-config="true" signature="openchromebrowser()[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:36:39Z" name="openchromebrowser" finished-at="2023-04-03T05:36:46Z" duration-ms="7269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchromebrowser -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:36:48Z" name="Login" data-provider="getData" finished-at="2023-04-03T05:36:54Z" duration-ms="6185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammit@@223445689]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit@133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:36:54Z" name="Login" data-provider="getData" finished-at="2023-04-03T05:36:56Z" duration-ms="2121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammit@22341245676]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit@133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:36:56Z" name="Login" data-provider="getData" finished-at="2023-04-03T05:36:58Z" duration-ms="2564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammit@223412456785]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit@133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:36:58Z" name="Login" data-provider="getData" finished-at="2023-04-03T05:37:01Z" duration-ms="2191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammit@223414456794]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit@133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:37:01Z" name="Login" data-provider="getData" finished-at="2023-04-03T05:37:03Z" duration-ms="2198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammit@223415456983]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit@133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login(java.lang.String, java.lang.String)[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:37:03Z" name="Login" data-provider="getData" finished-at="2023-04-03T05:37:05Z" duration-ms="2586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammit@223416468842]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit@133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Closebrowser()[pri:0, instance:module1.NewTest@1583741e]" started-at="2023-04-03T05:37:05Z" name="Closebrowser" finished-at="2023-04-03T05:37:06Z" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+      </class> <!-- module1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
